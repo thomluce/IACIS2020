@@ -27,11 +27,9 @@ namespace IACIS2020.Controllers
             return View();
         }
 
-        public ActionResult Pandemic()
+        public ActionResult GitHub()
         {
-
             return View();
         }
     }
-    
 }
