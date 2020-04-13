@@ -26,14 +26,6 @@ namespace IACIS2020.Controllers
 
             return View();
         }
-        public ActionResult Pandemic()
-        {
-            ViewBag.date = DateTime.Now.ToShortDateString();
-            return View();
-        }
-        public ActionResult GitHub()
-        {
-            return View();
-        }
+
     }
 }
