@@ -26,6 +26,12 @@ namespace IACIS2020.Controllers
 
             return View();
         }
+        public ActionResult GitHub()
+        {
+            
+
+            return View();
+        }
 
     }
 }
